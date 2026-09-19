@@ -33,7 +33,7 @@
 
 Tech enthusiast and open-source contributor focused on user-centric products, testing, and creative design.
 
-- 🧪 App Tester for **Metrolist** & Beta Contributor for **pitsport**.
+- 🧪 App Tester for **Metrolist** & Beta Contributor for **PitSport**.
 - 🎨 In love with **UI/UX design** — passionate about crafting smooth, intuitive, and visually pleasing interfaces.
 - 💬 Always open to interesting collaborations, feedback, and tech discussions.
 
