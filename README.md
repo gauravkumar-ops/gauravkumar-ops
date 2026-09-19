@@ -3,24 +3,6 @@
 <!-- GitHub Followers Counter -->
 [![GitHub Followers](https://img.shields.io/github/followers/gauravkumar-ops?label=Followers&logo=github&style=for-the-badge&color=24292e)](https://github.com/gauravkumar-ops?tab=followers)
 
----
-
-### 🚀 About Me
-
-Tech enthusiast and open-source contributor focused on user-centric products, testing, and creative design.
-
-- 🧪 App Tester for **Metrolist** & Beta Contributor for **pitsport**.
-- 🎨 In love with **UI/UX design** — passionate about crafting smooth, intuitive, and visually pleasing interfaces.
-- 💬 Always open to interesting collaborations, feedback, and tech discussions.
-
----
-
-### 🛠️ Tools & Platforms
-
-`Git & GitHub` • `VS Code` • `Figma`
-
----
-
 ### 🌐 Connect with Me
 
 <p align="left">
@@ -44,3 +26,22 @@ Tech enthusiast and open-source contributor focused on user-centric products, te
     <img src="https://img.shields.io/badge/Email-gauravkumarmgm%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+---
+
+### 🚀 About Me
+
+Tech enthusiast and open-source contributor focused on user-centric products, testing, and creative design.
+
+- 🧪 App Tester for **Metrolist** & Beta Contributor for **pitsport**.
+- 🎨 In love with **UI/UX design** — passionate about crafting smooth, intuitive, and visually pleasing interfaces.
+- 💬 Always open to interesting collaborations, feedback, and tech discussions.
+
+---
+
+### 🛠️ Tools & Platforms
+
+`Git & GitHub` • `VS Code` • `Figma`
+
+---
+
