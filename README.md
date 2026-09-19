@@ -1,4 +1,4 @@
-## Hi there, I'm gXrave the meme guy 👋
+## Hi there, I'm gXrave 👋
 
 <!-- GitHub Followers Counter -->
 [![GitHub Followers](https://img.shields.io/github/followers/gauravkumar-ops?label=Followers&logo=github&style=for-the-badge&color=24292e)](https://github.com/gauravkumar-ops?tab=followers)
