@@ -7,11 +7,17 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on exciting new projects
-- 🌱 I’m currently learning new languages and building skills
-- 💬 Ask me about anything, I'll be happy to help!
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Very few people know about me, how about you?
+Tech enthusiast and open-source contributor focused on user-centric products, testing, and creative design.
+
+- 🧪 App Tester for **Metrolist** & Beta Contributor for **pitsport**.
+- 🎨 In love with **UI/UX design** — passionate about crafting smooth, intuitive, and visually pleasing interfaces.
+- 💬 Always open to interesting collaborations, feedback, and tech discussions.
+
+---
+
+### 🛠️ Tools & Platforms
+
+`Git & GitHub` • `VS Code` • `Figma`
 
 ---
 
@@ -33,16 +39,8 @@
     <img src="https://img.shields.io/badge/Discord-G--Rave-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   &nbsp;
-  <!-- Gmail -->
+  <!-- Email -->
   <a href="mailto:gauravkumarmgm@gmail.com">
     <img src="https://img.shields.io/badge/Email-gauravkumarmgm%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-### 🛠️ Tools & Platforms
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
